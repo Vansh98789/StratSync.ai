@@ -1,5 +1,5 @@
 <h1>Welcome to the StratSync.ai Web Application</h1>
-
+<h1>Live link: <a href="https://strat-sync-ai.vercel.app/">https://strat-sync-ai.vercel.app/></a> </h1>
 <p><strong>Tech Stack:</strong> React, Tailwind CSS, JavaScript</p>
 
 <h2>Getting Started</h2>
