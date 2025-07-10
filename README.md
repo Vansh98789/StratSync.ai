@@ -1,12 +1,19 @@
-# React + Vite
+<h1>Welcome to the StratSync.ai Web Application</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p><strong>Tech Stack:</strong> React, Tailwind CSS, JavaScript</p>
 
-Currently, two official plugins are available:
+<h2>Getting Started</h2>
+<pre>
+git clone https://github.com/Vansh98789/StratSync.ai.git
+cd StratSync.ai
+npm install
+npm run dev
+</pre>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h2>Key Features</h2>
+<ul>
+  <li>Dark/Light mode toggle for theme customization</li>
+  <li>Color scheme aligned with the StratSync.ai logo</li>
+  <li>Consistent and readable font styling</li>
+  <li>Responsive and well-sized UI elements</li>
+</ul>
