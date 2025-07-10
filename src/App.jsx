@@ -209,7 +209,8 @@ export default function App() {
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
             <div className={`${isDark ? 'bg-gray-800' : 'bg-gray-50'} p-8 rounded-2xl text-center`}>
-              <div className="bg-gradient-to-r from-blue-500 to-purple-600 p-4 rounded-xl w-fit mx-auto mb-6">
+              <div className="bg-gradient-to-r from-teal-500 to-emerald-500' : 'bg-gradient-to-r from-teal-600 to-emerald-600 p-4 rounded-xl w-fit mx-auto mb-6">
+
                 <TrendingUp className="w-8 h-8 text-white" />
               </div>
               <h4 className={`text-4xl font-bold mb-2 ${isDark ? 'text-white' : 'text-gray-900'}`}>20%</h4>
@@ -219,7 +220,7 @@ export default function App() {
               </p>
             </div>
             <div className={`${isDark ? 'bg-gray-800' : 'bg-gray-50'} p-8 rounded-2xl text-center`}>
-              <div className="bg-gradient-to-r from-blue-500 to-purple-600 p-4 rounded-xl w-fit mx-auto mb-6">
+              <div className="bg-gradient-to-r from-teal-500 to-emerald-500' : 'bg-gradient-to-r from-teal-600 to-emerald-600 p-4 rounded-xl w-fit mx-auto mb-6">
                 <Zap className="w-8 h-8 text-white" />
               </div>
               <h4 className={`text-4xl font-bold mb-2 ${isDark ? 'text-white' : 'text-gray-900'}`}>40%</h4>
@@ -229,7 +230,7 @@ export default function App() {
               </p>
             </div>
             <div className={`${isDark ? 'bg-gray-800' : 'bg-gray-50'} p-8 rounded-2xl text-center`}>
-              <div className="bg-gradient-to-r from-blue-500 to-purple-600 p-4 rounded-xl w-fit mx-auto mb-6">
+              <div className="bg-gradient-to-r from-teal-500 to-emerald-500' : 'bg-gradient-to-r from-teal-600 to-emerald-600 p-4 rounded-xl w-fit mx-auto mb-6">
                 <Target className="w-8 h-8 text-white" />
               </div>
               <h4 className={`text-4xl font-bold mb-2 ${isDark ? 'text-white' : 'text-gray-900'}`}>Better</h4>
@@ -239,7 +240,7 @@ export default function App() {
               </p>
             </div>
             <div className={`${isDark ? 'bg-gray-800' : 'bg-gray-50'} p-8 rounded-2xl text-center`}>
-              <div className="bg-gradient-to-r from-blue-500 to-purple-600 p-4 rounded-xl w-fit mx-auto mb-6">
+              <div className="bg-gradient-to-r from-teal-500 to-emerald-500' : 'bg-gradient-to-r from-teal-600 to-emerald-600 p-4 rounded-xl w-fit mx-auto mb-6">
                 <Shield className="w-8 h-8 text-white" />
               </div>
               <h4 className={`text-4xl font-bold mb-2 ${isDark ? 'text-white' : 'text-gray-900'}`}>Real-time</h4>
